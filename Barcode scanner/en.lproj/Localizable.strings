@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Barcode scanner
+
+  Created by Skywalker on 2020/3/15.
+  Copyright © 2020 OmuSkywalker. All rights reserved.
+*/
+/* Home View */
+"home-title" = "History";
+"pass" = "PASS";
+"fail" = "FAILED";
+"other" = "OTHER";
+"nav-btn" = "More";
+"delete-text" = "Please do it at time tab.";
+
+/* Action Sheet */
+"action-title" = "More Option";
+"action-text" = "Choose a option";
+"action-setting" = "Setting";
+"action-date" = "Choose a day";
+"action-close" = "Cancel";
+
+/* Choose Day View */
+"day-title" = "Choose a Day";
+"pick-day" = "Pick a day";
+
+/* Setting View */
+"setting-title" = "Setting";
+"server-preference" = "Server Preference";
+"URL" = "Server URL";
+"addition" = "Addition Value";
+"request-method" = "Request Method";
+"shake-open" = "Shake to open scanner";
+"reset" = "Reset History";
+"reset-alert-title" = "Warning!";
+"reset-footer" = "Reset all scan and server response data.";
+"reset-alert-text" = "This move is nonreversible, do you really want to do this? ";
+"reset-alert-yes" = "OK";
+"reset-alert-no" = "Cancel";
+"app-info" = "App Information";
+"developer-name" = "Developer";
+"current-version-num" = "Current Version";
+
+/* Detail View*/
+"detail-title" = "Detail";
+"student-id" = "Student ID";
+"response-data" = "Response Data";
+"upload-time" = "Upload Time";
+
+/* Picker */
+"result" = "Result";
+"time" = "Time";
+"wrong-text" = "Something wrong!";
+
+/* Modal */
+"modal-title" = "Scanner";
+"close-btn" = "Done";
+
+/* Search Bar */
+"search-placeholder" = "Search Student ID";

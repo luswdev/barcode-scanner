@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Barcode scanner
+
+  Created by Skywalker on 2020/3/15.
+  Copyright © 2020 OmuSkywalker. All rights reserved.
+*/
+"home-title" = "历史纪录";
+"pass-button" = "通过";
+"fail-button" = "失败";

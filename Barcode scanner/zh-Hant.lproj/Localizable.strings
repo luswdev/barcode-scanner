@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Barcode scanner
+
+  Created by Skywalker on 2020/3/15.
+  Copyright © 2020 OmuSkywalker. All rights reserved.
+*/
+/* Home View*/
+"home-title" = "歷史紀錄";
+"pass" = "通過";
+"fail" = "失敗";
+"other" = "其他";
+"nav-btn" = "更多";
+"delete-text" = "請在時間分頁中操作";
+
+/* Action Sheet */
+"action-title" = "更多選項";
+"action-text" = "請選擇一項";
+"action-setting" = "設定";
+"action-date" = "選擇日期";
+"action-close" = "取消";
+
+/* Choose Day View */
+"day-title" = "選擇日期";
+"pick-day" = "選個日期";
+
+/* Setting View */
+"setting-title" = "設定";
+"server-preference" = "伺服器設定";
+"URL" = "伺服器網址";
+"addition" = "附加值";
+"request-method" = "請求方法";
+"shake-open" = "搖一搖開啟掃瞄器";
+"reset" = "重置紀錄";
+"reset-footer" = "重置所有伺服器回傳的紀錄";
+"reset-alert-title" = "警告";
+"reset-alert-text" = "此動作為不可逆的操作，確定要繼續嗎？";
+"reset-alert-yes" = "對啦";
+"reset-alert-no" = "再看看";
+"app-info" = "應用程式資訊";
+"developer-name" = "開發者";
+"current-version-num" = "目前版本";
+
+/* Detail View*/
+"detail-title" = "詳細資料";
+"student-id" = "學號";
+"response-data" = "回應的資料";
+"upload-time" = "上傳時間";
+
+/* Picker */
+"result" = "結果";
+"time" = "時間";
+
+/* Modal */
+"modal-title" = "掃瞄器";
+"close-btn" = "關閉";
+"wrong-text" = "出錯啦";
+
+/* Search Bar */
+"search-placeholder" = "搜尋學號";
